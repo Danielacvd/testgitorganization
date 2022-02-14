@@ -10,3 +10,7 @@ Nuevos cambios
 
 ## Nuevos cambios desde github5
 Nuevos cambios para crear conflictos, fast forward
+## Cambios nuevos desde el local
+Nuevos cambios para crear conflictos, fast forward
+Se quedan ambos en la solucion del conflicto
+git pull --rebase
